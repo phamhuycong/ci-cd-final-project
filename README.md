@@ -1,3 +1,6 @@
+# Project name: Python CI/CD Pipeline with GitHub Actions, Tekton and OpenShift
+
+A CI/CD pipeline for a sample Python application: GitHub Actions for linting and unit tests, Tekton tasks for cleanup and testing, and an OpenShift pipeline that builds and deploys the application.
 # Intro to CI/CD Practice Code
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
